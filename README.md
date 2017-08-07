@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [TOC]
 
 [参考网站DEMO](http://m.kugou.com/)
@@ -409,3 +410,9 @@ topic:"《非常幸运》 电影原声带"
 topic_url:""
 ```
 注意:如果需要点击进入对应的详情页面,请通过hash => 音乐详情接口data:author_id=>歌手信息接口
+=======
+# 基于Vue的音乐电台
+:smile: 演示地址(Chorm体验更佳) [点击进入](http://heightzhang.cn/Vue_BIibili/dist/index.html)<br>
+:smile: 演示二维码Demo [点击进入](https://github.com/heightzhang/Vue_BIibili/issues/2)<br>
+
+>>>>>>> 01c2757916cf03eafcbf39eb51283cbbc1a10c38
